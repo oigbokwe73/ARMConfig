@@ -1,0 +1,33 @@
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\bin\Debug\PowerFlow.exe.config
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\bin\Debug\PowerFlow.exe
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\bin\Debug\PowerFlow.pdb
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csprojResolveAssemblyReference.cache
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\obj\Debug\CADesigner.baml
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\obj\Debug\MainWindow.baml
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\obj\Debug\App.baml
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\obj\Debug\CADesigner.g.cs
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\obj\Debug\MainWindow.g.cs
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\obj\Debug\App.g.cs
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\obj\Debug\PowerFlow_MarkupCompile.cache
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\obj\Debug\PowerFlow.g.resources
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\obj\Debug\PowerFlow.Properties.Resources.resources
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csproj.GenerateResource.Cache
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csproj.CoreCompileInputs.cache
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\obj\Debug\PowerFlow.exe
+C:\My\TFS3\Private Code\PowerFlow\PowerFlow\obj\Debug\PowerFlow.pdb
+D:\PowerFlow\PowerFlow\bin\Debug\PowerFlow.exe.config
+D:\PowerFlow\PowerFlow\obj\Debug\PowerFlow.exe
+D:\PowerFlow\PowerFlow\obj\Debug\PowerFlow.pdb
+D:\PowerFlow\PowerFlow\bin\Debug\PowerFlow.exe
+D:\PowerFlow\PowerFlow\bin\Debug\PowerFlow.pdb
+D:\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csprojResolveAssemblyReference.cache
+D:\PowerFlow\PowerFlow\obj\Debug\CADesigner.baml
+D:\PowerFlow\PowerFlow\obj\Debug\MainWindow.baml
+D:\PowerFlow\PowerFlow\obj\Debug\App.baml
+D:\PowerFlow\PowerFlow\obj\Debug\CADesigner.g.cs
+D:\PowerFlow\PowerFlow\obj\Debug\MainWindow.g.cs
+D:\PowerFlow\PowerFlow\obj\Debug\App.g.cs
+D:\PowerFlow\PowerFlow\obj\Debug\PowerFlow_MarkupCompile.cache
+D:\PowerFlow\PowerFlow\obj\Debug\PowerFlow.g.resources
+D:\PowerFlow\PowerFlow\obj\Debug\PowerFlow.Properties.Resources.resources
+D:\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csproj.GenerateResource.Cache

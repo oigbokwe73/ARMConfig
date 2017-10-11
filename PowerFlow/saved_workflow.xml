@@ -1,0 +1,20 @@
+﻿<Sequence mc:Ignorable="sap sads" sap:VirtualizedContainerService.HintSize="245,214" mva:VisualBasic.Settings="Assembly references and imported namespaces serialized as XML namespaces"
+ xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities"
+ xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+ xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities"
+ xmlns:p="clr-namespace:PowerFlow;assembly=PowerFlow"
+ xmlns:sads="http://schemas.microsoft.com/netfx/2010/xaml/activities/debugger"
+ xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation"
+ xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <sap:WorkflowViewStateService.ViewState>
+    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+    </scg:Dictionary>
+  </sap:WorkflowViewStateService.ViewState>
+  <p:CompositeActivity sap:VirtualizedContainerService.HintSize="223,90" Name="Item" Number="10">
+    <p:CompositeActivity.Body>
+      <p:Test sap:VirtualizedContainerService.HintSize="200,22" Value="5" />
+    </p:CompositeActivity.Body>
+  </p:CompositeActivity>
+</Sequence>
